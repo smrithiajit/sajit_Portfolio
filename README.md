@@ -13,4 +13,5 @@ The following aspects were examined
 4.	The per capita military spending was compared to the per capita GDP
 5.	The percentage variation in their spending was compared in the span 2007-2016 
 ![](https://github.com/smrithiajit/sajit_Portfolio/blob/main/images/dm1.png)
+![](https://github.com/smrithiajit/sajit_Portfolio/blob/main/images/dm2.png)
 ![](https://github.com/smrithiajit/sajit_Portfolio/blob/main/images/dn3.png)
