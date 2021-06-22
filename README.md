@@ -1,6 +1,6 @@
 # sajit_Portfolio
 Datascience projects
-#[Project 1: Data Mining Project]()
+#[Project 1: Data Mining Project](https://github.com/smrithiajit/Projects/blob/master/DATS%2B6103%2BSMRITHI%2BAJIT.ipynb)
 The overall objective was to analyze the military spending of top 10 nations in terms of military spending.
 The following aspects were examined
 1.	The top 10 countries with the greatest military spending were identified.
