@@ -1,4 +1,7 @@
 # Portfolio
+Big Data Workshop
+I had the wonderful opportunity to teach the Big Data Technology, Apache Spark. Spark makes processing of big data easy.
+(https://github.com/smrithiajit/BigDataWorkshop/edit/master/README.md)
 
 Datascience projects
 
@@ -15,3 +18,5 @@ The following aspects were examined
 ![](/images/dm1.png)
 ![](/images/dm2.png)
 ![](/images/dn3.png)
+
+
