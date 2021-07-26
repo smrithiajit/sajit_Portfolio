@@ -1,8 +1,8 @@
 # Portfolio
 Big Data Workshop
 I had the wonderful opportunity to teach the Big Data Technology, Apache Spark. Spark makes processing of big data easy.
-
-![](https://github.com/smrithiajit/BigDataWorkshop/blob/master/APACHE_SPARK_PRESENTATION_final.gif)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/smrithiajit/BigDataWorkshop/blob/master/APACHE_SPARK_PRESENTATION_final.gif">
 
 The practise exercises can be found at 
 (https://github.com/smrithiajit/BigDataWorkshop/blob/master/)
