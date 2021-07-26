@@ -8,7 +8,7 @@ The practise exercises can be found at
 (https://github.com/smrithiajit/BigDataWorkshop/blob/master/)
 
 
-Datascience projects
+## Datascience projects
 
 # [Project 1: Data Mining Project](https://github.com/smrithiajit/Projects/blob/master/DATS%2B6103%2BSMRITHI%2BAJIT.ipynb)
 
