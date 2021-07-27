@@ -20,10 +20,11 @@ The following aspects were examined
 4.	The per capita military spending was compared to the per capita GDP
 5.	The percentage variation in their spending was compared in the span 2007-2016 
   
-![](/images/dm1.png)
-![](/images/dm2.png)
+![](/images/dm1.png) ![](/images/dm2.png)
+
 ![](/images/dn3.png)
-## [Data Mining Project Project 2: Data Mining Project: Comparidon of Greenhouse Gas Emissions](https://github.com/smrithiajit/Projects/blob/master/DATS6103SMRITHIAJIT11DEC.ipynb)
+
+## [Data Mining Project Project 2: Data Mining Project: Comparison of Greenhouse Gas Emissions](https://github.com/smrithiajit/Projects/blob/master/DATS6103SMRITHIAJIT11DEC.ipynb)
 
 The overall objective was to identify countries with high greenhouse gas emissions and analyze the greenhouse gas emissions of these countries
 ![](/images/emission2.png)
