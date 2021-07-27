@@ -9,7 +9,7 @@ The practise exercises can be found in the repository
 
 ## Datascience projects
 
-## [Project 1: Data Mining Project](https://github.com/smrithiajit/Projects/blob/master/DATS%2B6103%2BSMRITHI%2BAJIT.ipynb)
+## [Data Mining Project 1: Comparison of Military Spending between countries](https://github.com/smrithiajit/Projects/blob/master/DATS%2B6103%2BSMRITHI%2BAJIT.ipynb)
 
 The overall objective was to analyze the military spending of top 10 nations in terms of military spending.
 The following aspects were examined
@@ -23,5 +23,6 @@ The following aspects were examined
 ![](/images/dm1.png)
 ![](/images/dm2.png)
 ![](/images/dn3.png)
+## [Data Mining Project Project 2: Data Mining Project: Comparidon of Greenhouse Gas Emissions](https://github.com/smrithiajit/Projects/blob/master/DATS6103SMRITHIAJIT11DEC.ipynb)
 
-
+The overall objective was to identify countries with high greenhouse gas emissions and analyze the greenhouse gas emissions of these countries
