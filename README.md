@@ -5,7 +5,7 @@ I had the wonderful opportunity to teach the Big Data Technology, Apache Spark. 
   <img width="460" height="300" src="https://github.com/smrithiajit/BigDataWorkshop/blob/master/APACHE_SPARK_PRESENTATION_final.gif">
 </p>
 The practise exercises can be found at 
-
+!(image)[https://github.com/smrithiajit/BigDataWorkshop/blob/master/APACHE_SPARK_PRESENTATION_final.gif]
 
 
 ## Datascience projects
