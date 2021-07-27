@@ -22,11 +22,12 @@ The following aspects were examined
   
 ![](/images/dm1.png) ![](/images/dm2.png)
 
-![](/images/dn3.png)
-
 ## [Data Mining Project Project 2: Data Mining Project: Comparison of Greenhouse Gas Emissions](https://github.com/smrithiajit/Projects/blob/master/DATS6103SMRITHIAJIT11DEC.ipynb)
 
 The overall objective was to identify countries with high greenhouse gas emissions and analyze the greenhouse gas emissions of these countries
 ![](/images/emission2.png)
 ![](/images/emission3.png)
 ![](/images/gasemission1.png)
+
+## Comparison of GAM and Deep Learning in liver disease prediction(https://github.com/smrithiajit/Projects/blob/master/Comparison_of_GAMmodellingwithDeepLearning.pdf)
+
