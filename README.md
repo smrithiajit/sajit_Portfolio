@@ -27,5 +27,5 @@ The following aspects were examined
 
 The overall objective was to identify countries with high greenhouse gas emissions and analyze the greenhouse gas emissions of these countries
 ![](/images/emission2.png)
-![](/images/emission2.png)
 ![](/images/emission3.png)
+![](/images/gasemission1.png)
