@@ -8,9 +8,10 @@ The practise exercises can be found at
 (https://github.com/smrithiajit/BigDataWorkshop/blob/master/)
 
 
+
 ## Datascience projects
 
-# [Project 1: Data Mining Project](https://github.com/smrithiajit/Projects/blob/master/DATS%2B6103%2BSMRITHI%2BAJIT.ipynb)
+## [Project 1: Data Mining Project](https://github.com/smrithiajit/Projects/blob/master/DATS%2B6103%2BSMRITHI%2BAJIT.ipynb)
 
 The overall objective was to analyze the military spending of top 10 nations in terms of military spending.
 The following aspects were examined
