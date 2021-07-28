@@ -32,4 +32,11 @@ The overall objective was to identify countries with high greenhouse gas emissio
 ![](/images/gasemission1.png)
 
 ## [Comparison of GAM and Deep Learning in liver disease prediction](https://github.com/smrithiajit/Projects/blob/master/Comparison_of_GAMmodellingwithDeepLearning.pdf)
-
+This project aims develop and compare GAM modelling technique with Deep Learning 
+modelling technique to help predict if a patient is a liver patient or not based on 
+parameters available from liver function test results. Their performance was evaluated 
+and compared based on a combination of rmse, AUC and GAM performance plots. 
+Additionally, the author has attempted to understand how data curing techniques can 
+help to improve model and has also made an attempt to develop a representative or 
+index dataset that can be used to represent the complete dataset using GA-NMM 
+method.
