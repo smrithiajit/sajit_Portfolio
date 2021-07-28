@@ -1,12 +1,14 @@
 # Portfolio
 ## [Big Data Workshop](https://github.com/smrithiajit/BigDataWorkshop/blob/master/)
-I had the wonderful opportunity to teach the Big Data Technology, Apache Spark. Spark makes processing of big data easy.
+I had the wonderful opportunity to teach the Big Data Technology, Apache Spark. 
 <p align="center">
   <img width="460" height="300" src="https://github.com/smrithiajit/BigDataWorkshop/blob/master/fig1.gif">
 </p>
-The practise exercises can be found in the repository
+Spark makes processing of big data easy.The practise exercises can be found in the repository
 
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/smrithiajit/BigDataWorkshop/blob/master/fig2.gif">
+</p>
 ## Datascience projects
 
 ## [Data Mining Project 1: Comparison of Military Spending between countries](https://github.com/smrithiajit/Projects/blob/master/DATS%2B6103%2BSMRITHI%2BAJIT.ipynb)
@@ -29,5 +31,5 @@ The overall objective was to identify countries with high greenhouse gas emissio
 ![](/images/emission3.png)
 ![](/images/gasemission1.png)
 
-## Comparison of GAM and Deep Learning in liver disease prediction(https://github.com/smrithiajit/Projects/blob/master/Comparison_of_GAMmodellingwithDeepLearning.pdf)
+## [Comparison of GAM and Deep Learning in liver disease prediction](https://github.com/smrithiajit/Projects/blob/master/Comparison_of_GAMmodellingwithDeepLearning.pdf)
 
