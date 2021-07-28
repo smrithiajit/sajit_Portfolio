@@ -1,4 +1,4 @@
-# Projects
+# Workshops and Projects
 ## [Big Data Workshop](https://github.com/smrithiajit/BigDataWorkshop/blob/master/)
 I had the wonderful opportunity to teach the Big Data Technology, Apache Spark. 
 <p align="center">
