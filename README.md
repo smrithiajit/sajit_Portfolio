@@ -16,7 +16,7 @@ Spark makes processing of big data easy.The practise exercises can be found in t
   <img width="460" height="300" src="https://github.com/smrithiajit/BigDataWorkshop/blob/master/fig2.gif">
 </p>
 
-## [Datascience projects]
+
 
 ## [Data Mining Project 1: Comparison of Military Spending between countries](https://github.com/smrithiajit/Projects/blob/master/DATS%2B6103%2BSMRITHI%2BAJIT.ipynb)
 
