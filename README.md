@@ -1,6 +1,6 @@
 # Workshops and Projects
 
-## [Power Bi for Data Analysis](https://github.com/smrithiajit/POWER-BI/blob/main/crashdata.pdf)
+## [Power BI for Data Analysis](https://github.com/smrithiajit/POWER-BI/blob/main/crashdata.pdf)
 <p align="center">
   <img width="800" height="500" src="https://github.com/smrithiajit/POWER-BI/blob/main/crashdata1024_1.jpg">
 </p>
