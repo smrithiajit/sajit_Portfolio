@@ -2,7 +2,7 @@
 
 ## [Power Bi for Data Analysis](https://github.com/smrithiajit/POWER-BI/blob/main/crashdata.pdf)
 <p align="center">
-  <img width="600" height="500" src="https://github.com/smrithiajit/POWER-BI/blob/main/crashdata1024_1.jpg">
+  <img width="800" height="500" src="https://github.com/smrithiajit/POWER-BI/blob/main/crashdata1024_1.jpg">
 </p>
 
 ## [Big Data Workshop](https://github.com/smrithiajit/BigDataWorkshop/blob/master/)
