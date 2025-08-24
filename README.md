@@ -1,4 +1,29 @@
 # Workshops and Projects
+## Selected Projects (sanitized summaries)
+
+### Faculty Workload Automation — higher-ed (public R1)
+**Role:** Data Architect • **Stack:** Python, SQL, Power BI, GitHub Actions  
+**What I built:** Automated pipeline converting teaching/clinical/coordination effort to FTE, with policy-aware rules and exception handling.  
+**Impact:** Replaced spreadsheets; ~30–40% faster planning cycles; cut manual reconciliation by ~15–20 hrs/month.  
+**Public demo repo (synthetic data):** [link to mock repo] *(all data & schemas are illustrative)*
+
+### Nursing Board Compliance Dashboards — healthcare education
+**Role:** Analytics Engineer • **Stack:** SQL, DAX, Power BI, Fabric/Lakehouse  
+**What I built:** Model + dashboards integrating enrollment, completion, and licensure KPIs; row-level security, lineage, and data quality checks.  
+**Impact:** Single source of truth for regulatory reporting; reduced ad-hoc requests by ~50%.  
+**Notes:** Descriptions generalized; no proprietary datasets or visuals.
+
+### Healthcare Service Gap Mapping — statewide analysis
+**Role:** Data Engineer/Geospatial Analyst • **Stack:** Python (GeoPandas), Tableau, PostGIS  
+**What I built:** County-level access indices, provider-to-population ratios, and placement planning views; parameterized filters for stakeholders.  
+**Impact:** Supported site selection & outreach; identified top decile underserved regions.  
+**Demo:** Synthetic geodata sample & reproducible notebook (*toy dataset*).
+
+### Incident Duration Prediction — transportation safety (research)
+**Role:** ML Practitioner • **Stack:** scikit-learn, XGBoost, SHAP  
+**What I built:** Classifier for short/medium/long incident durations; feature importance & partial dependence for interpretability.  
+**Impact:** Improved triage prioritization; baseline → model uplift in macro-F1 by ~8–12%.  
+**Repo:** Public with simulated features; training pipeline + unit tests.
 
 ## [Power BI for Data Analysis](https://github.com/smrithiajit/POWER-BI/blob/main/crashdata.pdf)
 <p align="center">
