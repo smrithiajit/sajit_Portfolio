@@ -1,5 +1,5 @@
 # Workshops and Projects
-## Selected Projects (sanitized summaries)
+## Selected Projects 
 
 ### Faculty Workload Automation — higher-ed (public R1)
 **Role:** Data Architect • **Stack:** Python, SQL, Power BI, GitHub Actions  
